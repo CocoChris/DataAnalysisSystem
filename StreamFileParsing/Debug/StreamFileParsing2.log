@@ -1,0 +1,1139 @@
+﻿生成启动时间为 2017-08-30 10:51:37。
+     1>项目“D:\Workspace\DAS\Code\StreamFileParsing\StreamFileParsing2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\workspace\das\code\streamfileparsing\decode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(826): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(827): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(829): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(893): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(894): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(896): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(960): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(961): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(963): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1027): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1028): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1030): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1094): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1095): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1097): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1228): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1229): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1231): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1295): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1296): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1298): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1362): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1363): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1365): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1429): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1430): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1432): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1496): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1497): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1499): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1563): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1564): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1566): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1630): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1631): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1633): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1697): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1698): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1700): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1764): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1765): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(1767): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\account_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\admincommand_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(826): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(827): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(829): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(893): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(894): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(896): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(960): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(961): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(963): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1027): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1028): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1030): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1094): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1095): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1097): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1228): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1229): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1231): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1295): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1296): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1298): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1362): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1363): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1365): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1429): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1430): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1432): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1496): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1497): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1499): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1563): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1564): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1566): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1630): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1631): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1633): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1697): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1698): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1700): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1764): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1765): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1767): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1831): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1832): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(1834): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(541): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\commissionrate_in.h(657): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(344): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(345): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(347): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(527): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(528): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(530): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(425): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\gatewayconfig_in.h(608): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(741): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(742): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(744): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(942): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(943): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(945): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1058): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1059): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1061): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1174): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1175): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1177): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1241): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1242): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1244): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1308): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1309): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1311): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1375): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1376): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1378): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1491): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1492): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1494): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1607): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1608): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1610): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1674): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1675): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1677): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1741): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1742): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1744): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1942): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1943): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1945): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2009): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2010): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2012): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2076): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2077): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2079): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2143): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2144): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(2146): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(706): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1023): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1139): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1456): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\instrument_in.h(1572): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(741): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(742): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(744): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(1058): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(1059): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(1061): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(706): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investor_in.h(1139): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(942): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(943): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(945): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1009): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1010): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1012): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1076): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1077): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1079): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1143): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1144): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1146): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1210): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1211): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1213): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1344): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1345): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1347): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1411): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1412): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1414): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1478): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1479): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1481): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1545): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1546): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1548): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1612): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1613): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1615): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1679): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1680): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1682): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1746): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1747): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1749): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1813): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1814): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1816): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1880): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1881): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1883): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1947): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1948): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(1950): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2014): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2015): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2017): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2081): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2082): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2084): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2148): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2149): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2151): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2215): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2216): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2218): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2282): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2283): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(2285): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(724): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorposition_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1107): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1108): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1110): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1174): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1175): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1177): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1241): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1242): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1244): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1308): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1309): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1311): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1375): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1376): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1378): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1442): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1443): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1445): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(724): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\investorpositiondtl_in.h(1072): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\loginreq_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\logoutreq_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\logoutreq_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\logoutreq_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\logoutreq_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(826): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(827): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(829): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(893): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(894): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(896): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(960): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(961): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(963): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1027): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1028): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1030): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1094): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1095): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1097): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(1164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(541): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\marginrate_in.h(657): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(527): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(528): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(530): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1058): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1059): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1061): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1174): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1175): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1177): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1290): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1291): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1293): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1406): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1407): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1409): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1522): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1523): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1525): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1589): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1590): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1592): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1705): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1706): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1708): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1821): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1822): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1824): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1888): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1889): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1891): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1955): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1956): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1958): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2022): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2023): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2025): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2089): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2090): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2092): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2156): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2157): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2159): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2223): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2224): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2226): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2290): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2291): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2293): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2357): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2358): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2360): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2424): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2425): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2427): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2540): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2541): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2543): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2607): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2608): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2610): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2674): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2675): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2677): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2741): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2742): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2744): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3107): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3108): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3110): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3223): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3224): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3226): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3339): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3340): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3342): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3455): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3456): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3458): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3571): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3572): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3574): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3638): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3639): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3641): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3754): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3755): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3757): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(608): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(724): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1139): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1255): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1371): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1487): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1670): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(1786): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2505): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(2956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3072): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3188): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3304): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3420): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3536): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3719): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\order_in.h(3835): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\ordercancelreq_in.h(1072): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1058): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1059): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1061): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1125): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1126): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1128): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1192): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1193): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1195): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1259): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1260): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1262): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1326): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1327): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1329): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1527): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1528): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1530): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1594): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1595): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1597): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1710): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1711): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1713): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1675): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\orderreq_in.h(1791): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryaccount_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryaccount_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryaccount_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryaccount_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(710): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(711): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(713): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrycommissionrate_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryinstrument_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(710): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(711): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(713): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrymarginrate_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryorder_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryposition_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(228): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(229): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(231): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qryriskrule_in.h(309): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\qrytrade_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(344): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(345): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(347): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(826): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(827): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(829): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(942): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(943): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(945): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1009): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1010): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1012): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1076): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1077): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1079): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1192): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1193): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1195): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1259): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1260): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1262): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(425): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(541): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(657): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(907): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1157): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrule_in.h(1340): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(344): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(345): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(347): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(527): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(528): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(530): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(759): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(760): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(762): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(875): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(876): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(878): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(991): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(992): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(994): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1107): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1108): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1110): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1223): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1224): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1226): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1290): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1291): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1293): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1357): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1358): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1360): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(425): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(608): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(724): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(840): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(956): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1072): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1188): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\riskrulelog_in.h(1438): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(228): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(229): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(231): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(295): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(296): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(298): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rspinfo_in.h(376): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(643): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(644): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(646): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\rsplogin_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(460): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(461): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(463): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\seatgatewayassign_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(625): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(626): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(628): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(924): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(925): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(927): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1040): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1041): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1043): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1156): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1157): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1159): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1272): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1273): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1275): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1388): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1389): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1391): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1455): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1456): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1458): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1571): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1572): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1574): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1687): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1688): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1690): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1803): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1804): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1806): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1870): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1871): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1873): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1937): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1938): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1940): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2004): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2005): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2007): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2071): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2072): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2074): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2138): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2139): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2141): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2205): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2206): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2208): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2321): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2322): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2324): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2437): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2438): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2440): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2504): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2505): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2507): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2571): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2572): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2574): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(590): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(773): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(889): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1005): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1121): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1237): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1353): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1536): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1652): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(1768): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2286): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\trade_in.h(2402): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradedate_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(161): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(162): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(164): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(277): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(278): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(280): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(393): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(394): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(396): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(509): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(510): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(512): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(576): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(577): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(579): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(692): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(693): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(695): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(808): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(809): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(811): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(924): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(925): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(927): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(1040): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(1041): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(1043): warning C4068: 未知的杂注
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(242): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(358): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(474): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(657): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(773): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(889): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+     1>d:\workspace\das\code\streamfileparsing\tradingcode_in.h(1005): warning C4244: “参数”: 从“const uint64_t”转换到“size_t”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Workspace\DAS\Code\StreamFileParsing\Debug\StreamFileParsing2.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\Programs\MySQL\lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Workspace\DAS\Code\StreamFileParsing\Debug\StreamFileParsing2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Workspace\DAS\Code\StreamFileParsing\Debug\StreamFileParsing2.lib" /MACHINE:X86 Debug\Decode.obj
+         Debug\main.obj
+         Debug\MySQLManager.obj
+         StreamFileParsing2.vcxproj -> D:\Workspace\DAS\Code\StreamFileParsing\Debug\StreamFileParsing2.exe
+     1>已完成生成项目“D:\Workspace\DAS\Code\StreamFileParsing\StreamFileParsing2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.54

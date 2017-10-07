@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Decode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MySQLManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Account_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminCommand_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CommissionRate_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GatewayConfig_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Instrument_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Investor_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InvestorPosition_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InvestorPositionDtl_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginReq_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogoutReq_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MarginRate_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageHeader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Order_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderCancelReq_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderReq_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PackageHeader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryAccount_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryCommissionRate_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryInstrument_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryMarginRate_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryOrder_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryPosition_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryRiskRule_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QryTrade_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RiskRule_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RiskRuleLog_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RspInfo_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RspLogin_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SbeInclude.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SeatGatewayAssign_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Trade_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TradeDate_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TradingCode_In.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Decode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MySQLManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="flow.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="1.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flow_new.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170808.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170810.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170809.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170807.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170811.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170814.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170815.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170816.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170817.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170818.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170821.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170822.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170823.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170824.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170825.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170828.dat">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="flowdata\flow20170829.dat">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
